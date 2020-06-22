@@ -1,0 +1,2 @@
+- [DEMO LINK](https://kussmich.github.io/Pink/)
+- Used technologies: HTML5, CSS3, JavaScript, BEM, Sass, NPM, Gulp, Git
